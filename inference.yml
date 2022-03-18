@@ -1,0 +1,7 @@
+version: "3"
+services:
+  inference:
+    image: radiantearth/crop-detection-dl:1
+    volumes:
+      - "${INPUT_DATA}:/var/data/input"
+      - "${OUTPUT_DATA}:/var/data/output"

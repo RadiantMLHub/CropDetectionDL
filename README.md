@@ -48,4 +48,3 @@ python3 main.py --data_path ... --mixup_augmentation True
 ```
 
 However it uses a lot of RAM (~50 GB) so I wouldn't recommend using it.
-
