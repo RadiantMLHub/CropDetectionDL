@@ -1,4 +1,4 @@
-# Crop Detection from Satellite Imagery using Deep Learning
+# A Spatio-Temporal Deep Learning-Based Crop Classification Model for Satellite Imagery
 
 First place solution for Crop Detection from Satellite Imagery competition organized by CV4A workshop at ICLR 2020.
 
